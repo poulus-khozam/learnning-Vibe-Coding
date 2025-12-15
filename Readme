@@ -1,1 +1,47 @@
 https://www.codecademy.com/courses/intro-to-vibe-coding/lessons/what-is-vibe-coding/exercises/vibe-coding-tips-and-tricks
+
+Review the essential basics of vibe coding by reading through this condensed summary:
+
+While traditional coding involves the human manually typing up all the relevant code, vibe coding outsources most of this work to an AI agent.
+Vibe coding is great for personal projects, single-use applications, and prototypes.
+However, its security flaws, difficulty in debugging, and tendency to balloon in complexity make it a risky choice for other applications.
+1) Traditional Coding vs. Vibe Coding
+   Traditional Coding: Requires manual planning, coding, and maintenance.
+   Vibe Coding: Uses AI to generate code from natural language descriptions.
+2 ) Capabilities and Benefits
+    Rapid Prototyping: Create quick demos from ideas.
+      Personal Tools: Generate scripts for daily tasks.
+      Learning: Learn coding through AI assistance.
+3 ) Limitations and Challenges
+    Security Concerns: Code may have security flaws.
+      Complexity Management: Hard to manage at scale.
+      Debugging Difficulty: Errors are harder to trace.
+4 ) Conclusion
+    Vibe coding can be a powerful tool for productivity or a source of challenges depending on the application. 
+    Understanding its strengths and limitations is key to effective use.
+
+cheatsheet!
+    Vibe Coding Basics
+      Vibe coding is an approach to software development using AI assistance. 
+      Instead of writing detailed code, you describe the desired outcome using natural language. 
+      This allows you to focus on the problem-solving aspect while the AI handles the implementation. 
+      While it’s great for rapid development, it’s important to remain aware of its limitations, especially in larger, more complex projects.
+    Ask, Then Agent Method
+      The Ask, Then Agent workflow involves crafting detailed plans and then prompting AI to code. 
+      Originating from ‘ask’ and ‘agent’ modes in Cursor,
+      this practice is helpful across vibe coding tools, enhancing precision and efficiency.
+
+    Vibe Coding Challenges
+      While vibe coding is excellent for quick prototypes and learning, 
+      it complicates things with larger projects and poses security risks.
+      It’s most effective for smaller, standalone projects rather than challenging and complex projects.
+
+    Prompting Strategies
+      To effectively use vibe coding, specify detailed prompts, include screenshots, and give examples. 
+      Select well-known frameworks and utilize AI guidance actively to improve your coding practices and outcomes.
+
+    Debugging in Vibe Coding
+      Debugging involves utilizing error messages effectively and restarting with clearer prompts when needed. 
+      Frequent de commits and focusing on end-to-end tests over unit tests are crucial for vibe coding success.
+
+
